@@ -1,2 +1,2 @@
 # final
-the last project in univesty
+The last project in universty.
